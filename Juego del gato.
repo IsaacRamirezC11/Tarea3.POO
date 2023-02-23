@@ -1,0 +1,11 @@
+//Ramirez Cortes Tarea 3: Juego del gato.
+
+public class Tarea3Gato {
+
+  public static void main(String[] args){
+
+  String marco = "_ _ _ _ _\n|       |\n|       |\n|       |\n- - - - -";
+
+  System.out.println(marco);
+    }
+}
